@@ -1,6 +1,6 @@
 # deploy_symfony
 
-Required : PHP, Composer and MySQL
+Required : PHP(php8.3, php-fpm, php-mysql, libapache2-mod-php), Composer and MySQL
 
 Composer install
 
